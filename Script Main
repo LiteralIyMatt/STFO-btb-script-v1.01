@@ -9,11 +9,11 @@
 local KEY = Enum.KeyCode
 local Settings = {
 	Keybinds = {
-		["INCREASE"] = KEY["C"];
+		["INCREASE"] = KEY["Q"];
 		["DECREASE"] = KEY["E"];
 		["TOGGLE_REACH"] = KEY["R"];
 		["TOGGLE_VISUALIZER"] = KEY["T"];
-		["TOGGLE_DAMAGE_AMP"] = KEY["C"];
+		["TOGGLE_DAMAGE_AMP"] = KEY["X"];
 		["CHECK_SETTINGS"] = KEY["C"];
 		["TOGGLE_NOTIFICATIONS"] = KEY["V"];
 		["TOGGLE_AUTO_CLICKER"] = KEY["B"];
